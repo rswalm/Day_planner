@@ -1,0 +1,1 @@
+This is a Day Planner where the user can add and change events for each hour of the day.
